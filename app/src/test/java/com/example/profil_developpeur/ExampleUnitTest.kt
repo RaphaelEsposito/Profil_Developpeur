@@ -1,4 +1,4 @@
-package com.example.profil_developpeur_ui
+package com.example.profil_developpeur
 
 import org.junit.Test
 

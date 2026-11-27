@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.profil_developpeur_ui"
+    namespace = "com.example.profil_developpeur"
     compileSdk {
         version = release(37)
     }
